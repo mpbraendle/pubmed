@@ -1,0 +1,54 @@
+# Pia Spriensma <p.j.huizinga@rug.nl>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19T11:05:45+00:00\n"
+"PO-Revision-Date: 2024-10-21 19:28+0000\n"
+"Last-Translator: Pia Spriensma <p.j.huizinga@rug.nl>\n"
+"Language-Team: Dutch <http://translate.pkp.sfu.ca/projects/ojs/"
+"importexport-pubmed/nl/>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "plugins.importexport.pubmed.displayName"
+msgstr "PubMed XML Export Plugin"
+
+msgid "plugins.importexport.pubmed.description"
+msgstr ""
+"Exporteer artikel-metadata in PubMed XML formaat voor indexering in MEDLINE."
+
+msgid "plugins.importexport.pubmed.export"
+msgstr "Exporteer data"
+
+msgid "plugins.importexport.pubmed.export.issues"
+msgstr "Problemen met de export"
+
+msgid "plugins.importexport.pubmed.export.selectIssue"
+msgstr "Kies het te exporteren nummer."
+
+msgid "plugins.importexport.pubmed.export.articles"
+msgstr "Exporteer artikelen"
+
+msgid "plugins.importexport.pubmed.export.selectArticle"
+msgstr "Kies de te exporteren artikelen."
+
+msgid "plugins.importexport.pubmed.cliUsage"
+msgstr ""
+"Gebruik: \n"
+"{$scriptName} {$pluginName} [xmlFileName] [journal_path] artikelen "
+"[articleId1] [articleId2] ...\n"
+"{$scriptName} {$pluginName} [xmlFileName] [journal_path] nummer [issueId]\n"
+
+msgid "plugins.importexport.pubmed.cliError"
+msgstr "FOUT:"
+
+msgid "plugins.importexport.pubmed.export.error.issueNotFound"
+msgstr "Het opgegeven nummer-ID bestaat niet \"{$issueId}\"."
+
+msgid "plugins.importexport.pubmed.export.error.articleNotFound"
+msgstr "Het opgegeven artikel-ID bestaat niet \"{$articleId}\"."
