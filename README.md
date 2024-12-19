@@ -28,7 +28,7 @@ Some updates and improves were introduced due to requirements by the NIH review 
 - include PubMed XML CopyrightInformation element
 - include Funders and Grants data into PubMed XML Object elements
 - include References
-- include affiliation data, treat multiple affilations per author
+- include Affiliation data, treat multiple affiliations per author
 - include ORCID data
 
 For the mappings, see Configuration below.
